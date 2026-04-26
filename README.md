@@ -60,4 +60,4 @@ Aplikasi manajemen perpustakaan digital modern yang dibangun menggunakan framewo
 Proyek ini dikembangkan dengan prinsip *Clean Code* dan didokumentasikan dalam Bahasa Indonesia untuk memudahkan pemahaman alur logika aplikasi.
 
 ---
-Membangun dengan ❤️ oleh [Irsyad](https://github.com/irsyad-ku)
+Membangun dengan semangat oleh [Irsyad](https://github.com/irsyad-ku)
